@@ -28,3 +28,9 @@ Open `index.html` in your browser. Open `cv.html` for the draft printable CV.
 
 ## Note
 GitHub Pages hosting is free for public repositories on GitHub Free, subject to GitHub's current service limits and terms. Your public repository files and screenshots are visible to anyone.
+
+
+## 2026-11-09 CV-based update
+This version includes selected work history, recognition and course certificates from the supplied 16-page resume, plus strongly obscured project screenshot previews. **Do not upload the original confidential resume PDF** or raw source screenshots to a public repository. No portrait photo was present in the resume. Replace obscured previews only with screenshots you have permission to share, after removing company and personal information. The CV page is a public-safe draft, not the original PDF. Review all details before publishing.
+
+To update GitHub: open your repository > Add file > Upload files, drag the files and assets/screenshots folder contents while preserving paths, then Commit changes.
